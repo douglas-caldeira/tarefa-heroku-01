@@ -1,0 +1,8 @@
+Êþº¾   3 8
+      java/lang/Object <init> ()V	  	 
+   hello/MessageBean msg Ljava/lang/String;
+      java/lang/String hashCode ()I   
+     equals (Ljava/lang/Object;)Z  pt  en  de   fr " AlÃ´ $ Hello & Hallo ( Bonjour * java/io/Serializable Code LineNumberTable LocalVariableTable this Lhello/MessageBean; getMsg ()Ljava/lang/String; setMsg (Ljava/lang/String;)V value StackMapTable 
+SourceFile MessageBean.java !    )            +   3     *· ±    ,   
+       -        . /    0 1  +   /     *´ °    ,        -        . /    2 3  +  5     Æ+M>,¶ «      w          4     ^  ©   P  Ì   l     B,¶ ™ =>§ 8,¶ ™ />§ *,¶ ™ !>§ ,¶ ™ >§ ,¶ ™ >ª      E          $   $   -   6   ?*!µ § *#µ § *%µ § 	*'µ ±    ,   & 	    ¤   ª ! ­ # ³ $ ¶ & ¼ ' ¿ ) Å , -       Æ . /     Æ 4   5    ý < 
+$ù   6    7
