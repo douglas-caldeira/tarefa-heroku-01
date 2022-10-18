@@ -134,7 +134,7 @@ public class HelloServlet extends HttpServlet {
         }
         
        
-        }
+        
         
         String nome = request.getParameter("name");
         if (nome == null)
@@ -194,7 +194,7 @@ public class HelloServlet extends HttpServlet {
         }
         
         
-        }
+        
 
         response.setContentType("text/html;charset=UTF-8");
         try (PrintWriter out = response.getWriter()) {
