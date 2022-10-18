@@ -210,9 +210,9 @@ public class HelloServlet extends HttpServlet {
                 "       <link rel=\"stylesheet\" href=\"FontAwesome/css/all.css\">" +
                 "       <link rel=\"stylesheet\" href=\"styles/helloworld.css\">" +
                 "   </head>" +
-                "   <body class=\"hello-world-body-" + st + "\">" +
-                "       <div class=\"hello-world-div-" + st + "\">" +
-                "           <p class=\"h1 hello-world-text-" + st + "\">" +
+                "   <body class=\"hello-world-body-d\">" +
+                "       <div class=\"hello-world-div-d\">" +
+                "           <p class=\"h1 hello-world-text-d\">" +
                 "               " + msg +
                 "           </p>" +
                 "       </div>" +
